@@ -20,6 +20,8 @@ When data arrives in cloud storage, cloud function is triggred to preprocess the
 - Training the model 
 - Evaluating the model
 
+Model is continously trained to improve the accuracy by changing the hyperparameters
+
 
 Second model was developed using the transfer learning
 
