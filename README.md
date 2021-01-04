@@ -1,4 +1,4 @@
-# emergency-vs-non-emergency-vehicle
+# emergency-vs-non-emergency-vehicle-classification
 Classification of Emergency and non Emergency vehicle
 
 Environment : GCP 
